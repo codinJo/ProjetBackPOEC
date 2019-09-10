@@ -1,5 +1,5 @@
-UploadPDF.class
-PdfManager.class
-AddCover.class
-org\netbeans\rest\application\config\ApplicationConfig.class
-Merge.class
+packageDeTravail\Merge.class
+packageDeTravail\PdfManager.class
+packageDeTravail\UploadPDF.class
+packageDeTravail\ApplicationConfig.class
+packageDeTravail\AddCover.class

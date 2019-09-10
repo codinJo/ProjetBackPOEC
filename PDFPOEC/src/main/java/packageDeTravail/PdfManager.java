@@ -1,3 +1,5 @@
+package packageDeTravail;
+
 
 import javax.ejb.EJB;
 import javax.ws.rs.DefaultValue;

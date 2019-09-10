@@ -1,3 +1,5 @@
+package packageDeTravail;
+
 import com.itextpdf.kernel.pdf.*;
 import com.itextpdf.layout.Document;
 import com.itextpdf.layout.element.Paragraph;
