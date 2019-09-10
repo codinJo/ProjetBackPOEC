@@ -11,15 +11,13 @@ import com.itextpdf.kernel.pdf.PdfWriter;
 import java.io.File;
 import java.io.IOException;
 import java.io.Serializable;
-import javax.enterprise.context.SessionScoped;
-import javax.inject.Named;
+import javax.ejb.Stateless;
 /**
  *
  * @author imperath
  */
-@Named(value = "addCover")
-@SessionScoped
-public class AddCover implements Serializable{
+@Stateless
+public class AddCover {
     public static final String DEST
             = "./src/main/java/pdfs/add_cover4.pdf";
     public static final String COVER
